@@ -1,0 +1,14 @@
+local games = {
+    [126884695634066] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/status.lua",
+    [121864768012064] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/Winter%20-%20FishItTrackstat.lua",
+
+}
+
+local currentID = game.PlaceId
+local scriptURL = games[currentID]
+
+if scriptURL then
+    loadstring(game:HttpGet(scriptURL))()
+else
+    game.Players.LocalPlayer:Kick("Wrong game?")
+end
