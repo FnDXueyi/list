@@ -1,5 +1,6 @@
 local games = {
     [126884695634066] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/status.lua",
+    [124977557560410] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/status.lua",
     [121864768012064] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/Winter%20-%20FishItTrackstat.lua",
 
 }
