@@ -1,0 +1,17 @@
+local games = {
+    [121864768012064] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/winterHub-FishitTrade-obfuscated.lua",
+    [91833329899022]  = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/winterHub-caw.lua", -- Craft A World
+    [114357342940060] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/winterHub-caw.lua" -- Craft A World other placeID
+}
+
+local currentID = game.PlaceId
+local scriptURL = games[currentID]
+
+if scriptURL then
+    loadstring(game:HttpGet(scriptURL))()
+else
+    game.Players.LocalPlayer:Kick("Wrong game?")
+
+end
+
+
