@@ -4,7 +4,8 @@ local games = {
     [121864768012064] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/Winter%20-%20FishItTrackstat.lua",
     [127742093697776] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/Winter%20-%20PVBTrackstat.lua",
     [91833329899022]  = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/winterHub-caw.lua", -- Craft A World
-    [114357342940060] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/winterHub-caw.lua" -- Craft A World other placeID
+    [114357342940060] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/winterHub-caw.lua", -- Craft A World other placeID
+    [77747658251236] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/Winter%20-%20SailorPieceTrackstat.lua"
 }
 
 local currentID = game.PlaceId
