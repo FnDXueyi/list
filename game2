@@ -1,5 +1,6 @@
 local games = {
-    [121864768012064] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/winterHub-FishitTrade-obfuscated.lua",
+    [121864768012064] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/winterHub-FishitTrade-obfuscated.lua", -- Main Lobby
+    [79378095465365] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/winterHub-FishitTrade-obfuscated.lua", -- Trading Plaza
     [91833329899022]  = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/winterHub-caw.lua", -- Craft A World
     [114357342940060] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/winterHub-caw.lua" -- Craft A World other placeID
 }
