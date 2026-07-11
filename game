@@ -12,6 +12,7 @@ local games = {
     [138368689293913] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/Winter%20-%20SailorPieceTrackstat.lua",
     [96767841099256] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/Winter%20-%20SailorPieceTrackstat.lua",
     [130167267952199] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/Winter%20-%20SailorPieceTrackstat.lua",
+    [97598239454123] = "https://raw.githubusercontent.com/FnDXueyi/roblog/refs/heads/main/Winter-GAG2Trackstat.lua",
 }
 
 local currentID = game.PlaceId
